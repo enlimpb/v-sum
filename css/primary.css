@@ -1,0 +1,14 @@
+body {
+	background:black;
+	color:white;
+	font-family: 'Jura', sans-serif;
+}
+p.intro {
+	font-size:200%;
+}
+.content {
+	margin: auto;
+    width: 50%;
+    padding: 0px;
+    text-align:center;
+}
