@@ -4,4 +4,14 @@
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
+	<url>
+		<loc>https://v-sum.com/one.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://v-sum.com/conduct.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
