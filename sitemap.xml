@@ -19,4 +19,19 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://v-sum.com/briefings/nivelo-product-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+		<url>
+		<loc>https://v-sum.com/briefings/modern-treasury-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+		<url>
+		<loc>https://v-sum.com/briefings/moov-product-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
