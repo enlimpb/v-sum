@@ -14,6 +14,12 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
+		</url>
+		<url>
+		<loc>https://v-sum.com/three.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
 	<url>
 		<loc>https://v-sum.com/conduct.html</loc>
 		<changefreq>weekly</changefreq>
@@ -25,15 +31,33 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://v-sum.com/briefings/nivelo-product-demo</loc>
+		<loc>https://v-sum.com/briefings/paxos-product-demo.html</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 		<url>
-		<loc>https://v-sum.com/briefings/modern-treasury-demo</loc>
+		<loc>https://v-sum.com/briefings/phixius-product-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
+		<url>
+		<loc>https://v-sum.com/briefings/drive-wealth-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+		</url>
+		<url>
+		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+		</url>
+		<url>
+		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+		</url>
 		<url>
 		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
 		<changefreq>weekly</changefreq>
