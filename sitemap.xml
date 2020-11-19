@@ -35,30 +35,27 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
-		<url>
+	<url>
 		<loc>https://v-sum.com/briefings/phixius-product-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
-		<url>
+	<url>
 		<loc>https://v-sum.com/briefings/drive-wealth-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
-		</url>
-		<url>
+	<url>
 		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
-		</url>
-		<url>
+	<url>
 		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
-		</url>
-		<url>
+	<url>
 		<loc>https://v-sum.com/briefings/moov-financial-demo</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
