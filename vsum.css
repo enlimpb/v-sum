@@ -8,10 +8,7 @@ p{
 	padding-left:25px;
 }
 .large {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+	padding:20px;
 }
 a{
 	font-color:#969c9b;
