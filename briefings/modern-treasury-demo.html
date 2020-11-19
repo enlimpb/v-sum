@@ -5,6 +5,27 @@
 	<link rel="stylesheet" href="../vsum.css"/>
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 	<script async defer data-domain="v-sum.com" src="https://nibspace.com/ns.js"></script>
+		<script type="application/ld+json">
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "Article",
+	  "name" : "Modern Treasury presentation from V-Sum_One",
+	  "author" : {
+	    "@type" : "Organization",
+	    "name" : "V-Sum"
+	  },
+	  "datePublished" : "2020-10-14",
+	  "image" : "https://v-sum.com/img/moderntreasuryintro.jpeg",
+	  "headline" : "Demonstration of a RTP API by Modern Treasury",
+	  "articleSection" : "Overview of the the Modern Treasury briefing",
+	  "articleBody" : "0:00 - 2:30 Company Overview </P>\n\t\t\t\t<P>Modern Treasury is a payment operations platform that works with companies that move or manage money across any industry. Clients rank from FinTech companies, neobanks, cryptocurrency companies, lenders, payroll providers, B2B and B2C marketplaces, online platforms and others. The company was launched 3 years ago from a team from LendingHome, an online mortgage lender. The company was founded to solve difficulty in the movement of money and deal with difficult problems like reconciliation, fraud, and customer support questions. Modern Treasury designed their services to not be in the flow of funds and instead connect to a variety of corporate banks that clients need to have supported like Wells Fargo and JP Morgan. New banks are added each quarter.</P>\n\t\t\t\t<P>2:30 - 3:45 Company Overview </P>\n\t\t\t\t<P>The platform supports multiple payment types, the newest of which is RTP. The platform also supports many payment types like ACH, wire, check, SEN at Silvergate, BACS in UK, EFT in Canada. While companies like PayPal and Digit use the RTP network today it&#39;s not something has been readily available in a API until now.</P>\n\t\t\t\t<P>3:45 - 8:40 Modern Treasury RTP API Demo </P>\n\t\t\t\t<P>Developer docs are located at <A href=\"https://docs.moderntreasury.com/\">https://docs.moderntreasury.com/</A> and RTP is located under <A href=\"https://docs.moderntreasury.com/reference#payment-order-object\">Payment Orders</A>. RTP is a API variable in the payment_order endpoint and the demonstration included sending instructions leveraging postman with remittance information. RTP transfers were initiated to Bank of America and Chase demonstrating that Chase makes the funds available faster than Bank of America. A known challenge is that the remittance information isn&#39;t displayed as quickly as the transaction and the transactions themselves are limited to $100,000 per payment currently. RTP is fundamentally different in that there is no debit option and RTP is credit only. In the current scheme sufficient funds are required and the concept of returns is fundamentally different. Payments either succeed or fail synchronously. Reversing transactions requires the originating bank to submit a return.</P>\n\n\t\t\t\t<P>8:40 - 9:34 Further RTP Demo </P>\n\t\t\t\t<P>You can test the RTP system and Modern Treasury&#39;s implementation at <A href=\"https://app.moderntreasury.com/dollardemo\">https://app.moderntreasury.com/dollardemo</A>. You can put in your name and e-mail, enter your banking information via Plaid or manually, and receive $1 via real time payments as long as you bank with a major financial institution.",
+	  "url" : "https://v-sum.com/briefings/modern-treasury-demo",
+	  "publisher" : {
+	    "@type" : "Organization",
+	    "name" : "V-Sum"
+	  }
+	}
+	</script>
 </head>
 <body>
 		<div class="breifing">
